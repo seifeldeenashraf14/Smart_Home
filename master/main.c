@@ -24,7 +24,7 @@ int main()
 		{
 			MDIO_EnumSetPortValue(DIO_PORTB,0XFF);
 		}
-		//LED_value=MAP_U16MAPPING(1024,0,255,0,receive_data_LDR);
+		
 	}
 }
 
